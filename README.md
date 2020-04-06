@@ -1,4 +1,4 @@
-<h2> <b> GPS-Locator-Google-Maps </h2>
+<h2> <b> GPS-Locator-Google-Maps </b></h2>
 
 The Application developed for Embeddded System GPS modules and the location data's latitude and longtitude is stored in cloud server like Thingspeak,Thingstream,Other IoT Server's.GPS location can be viewed in Google Maps.
 

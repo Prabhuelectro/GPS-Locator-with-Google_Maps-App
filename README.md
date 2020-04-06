@@ -6,4 +6,4 @@ When the get data button is pressed once the app will start to fetch the locatio
 
 When the Locate button is pressed the app will open another screen and display the latitude and longtitude in Google Maps and place an marker at the position.
 
-<img align="centre" width="500" height="500" src="https://raw.githubusercontent.com/Prabhuelectro/GPS-Locator-Google-Maps-/master/image/application.png">
+<img align="centre" width="500" height="700" src="https://raw.githubusercontent.com/Prabhuelectro/GPS-Locator-Google-Maps-/master/image/application.png">

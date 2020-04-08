@@ -9,5 +9,9 @@ When the Locate button is pressed the app will open another screen and display t
 <h3>***Application is developed in MIT App Inventor***</h3>
 
 <p align="center">
-  <img width="450" height="650" src="https://raw.githubusercontent.com/Prabhuelectro/GPS-Locator-Google-Maps-/master/image/screen0.png">
+  <img width="450" height="650" src="https://github.com/Prabhuelectro/GPS-Locator-with-Google_Maps-App/image/screen0.JPG">
+</p>
+
+<p align="center">
+  <img width="450" height="650" src="https://github.com/Prabhuelectro/GPS-Locator-with-Google_Maps-App/image/screen1.JPG">
 </p>
